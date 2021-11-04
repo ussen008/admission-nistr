@@ -1,0 +1,1 @@
+web: gunicorn admission_proj.wsgi --log-file -
